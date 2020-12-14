@@ -29,6 +29,6 @@ public static void main(String[] args) throws Exception {
 	 System.out.println(is);
 	System.out.println(iss);
 	int ad=iss.read();
-    System.out.println(ad);//
+    System.out.println(ad);
 }
 }

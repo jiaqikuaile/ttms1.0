@@ -26,7 +26,7 @@ public class AttachementController {
     @ResponseBody
     public JsonResult doUpload(
     		String title,
-    		MultipartFile mFile){
+    		MultipartFile mFile){//
     	//原有内容是练习上传,业务要写到service
     	attachementService
     	.uploadObject(title,mFile);
