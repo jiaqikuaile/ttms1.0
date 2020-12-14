@@ -30,5 +30,5 @@ public static void main(String[] args) throws Exception {
 	System.out.println(iss);
 	int ad=iss.read();
     System.out.println(ad);
-}
+}//update A.java
 }
